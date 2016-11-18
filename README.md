@@ -42,3 +42,5 @@ To slowly dive into the tech currently available I leaned on Google, StackOverfl
 ### Tools
 
 - [Wireshark](https://www.wireshark.org/): network analyzer
+- [Chrome Internals](chrome://webrtc-internals/)
+- [Lynckia](http://lynckia.com/): Madrid based openSource project. Looks to offer 'Web Real Time Communications Solutions'

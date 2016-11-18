@@ -10,6 +10,35 @@ The new internet Hype is Real-Time connection. When talking about real-time we f
 
 To slowly dive into the tech currently available I leaned on Google, StackOverflow, ... classics ... and several articles and tutorials. The following document tries to be a collection of the resources I found most helpful.
 
-**Warning:** This is not a tutorial series and the links are not ordered in a gradual learning curve specific way. 
+**Warning:** This is not a tutorial series and the links are not ordered in a gradual learning curve specific way.
 
-## 
+### Tutorials
+
+- [Google Basic Codelab](https://codelabs.developers.google.com/codelabs/webrtc-web/#0)
+
+
+### Understanding What is available
+
+- [WebSocket Basics](https://www.html5rocks.com/en/tutorials/websockets/basics/)
+- [Connectivity Woes and You](https://xirsys.com/webrtc-connectivity-woes-and-you/): Understanding STUN and TURN servers to solve common issues
+
+### Useful Repos
+
+- [Socket.io](http://socket.io/)
+- [Socket.io Streams](https://github.com/nkzawa/socket.io-stream)
+
+### WebRTC 'Solutions'
+
+- [EasyRTC](https://easyrtc.com/)
+- [SimpleWebRTC](https://simplewebrtc.com/)
+- [RTC-Everywhere](https://github.com/contra/rtc-everywhere)
+- [Twilio](https://www.twilio.com/)
+
+### Blogs
+
+- [WebRTC Hacks](https://webrtchacks.com/)
+- [Real world WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
+
+### Tools
+
+- [Wireshark](https://www.wireshark.org/): network analyzer

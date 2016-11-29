@@ -45,3 +45,10 @@ To slowly dive into the tech currently available I leaned on Google, StackOverfl
 - [Wireshark](https://www.wireshark.org/): network analyzer
 - [Chrome Internals](chrome://webrtc-internals/)
 - [Lynckia](http://lynckia.com/): Madrid based openSource project. Looks to offer 'Web Real Time Communications Solutions'
+
+### Screen Sharing
+
+- [Open source chrome extension](https://chrome.google.com/webstore/detail/screen-capturing/ajhifddimkapgcifgcodmmfdlknahffk): Basic extension that can be leveraged from any web page to use the Chrome desktopCapture API. The code is available for download and reuse together with an example library of how to make us of it.
+	- [Desktop Capture extension code](https://github.com/muaz-khan/Chrome-Extensions/tree/master/desktopCapture)
+	- [Desktop Capture Use](https://github.com/muaz-khan/Chrome-Extensions/tree/master/Screen-Capturing.js)
+- [Open source firefox extension](https://github.com/muaz-khan/Firefox-Extensions)

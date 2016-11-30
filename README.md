@@ -53,3 +53,4 @@ To slowly dive into the tech currently available I leaned on Google, StackOverfl
 	- [Desktop Capture Use](https://github.com/muaz-khan/Chrome-Extensions/tree/master/Screen-Capturing.js)
 - [Open source firefox extension](https://github.com/muaz-khan/Firefox-Extensions)
 - [Example of screen sharing](https://www.webrtc-experiment.com/getScreenId/)
+- [Chrome and Firefox Extension development and testing](https://github.com/opentok/screensharing-extensions)

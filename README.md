@@ -54,3 +54,10 @@ To slowly dive into the tech currently available I leaned on Google, StackOverfl
 - [Open source firefox extension](https://github.com/muaz-khan/Firefox-Extensions)
 - [Example of screen sharing](https://www.webrtc-experiment.com/getScreenId/)
 - [Chrome and Firefox Extension development and testing](https://github.com/opentok/screensharing-extensions)
+
+
+### Support
+
+- [Is WebRTC Ready?](iswebrtcreadyyet.com)
+- [Can I use: RTC](http://caniuse.com/#search=rtc)
+- [Can I use: getUserMedia](http://caniuse.com/#search=getUserMedia)
